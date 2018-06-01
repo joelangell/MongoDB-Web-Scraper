@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(64,25,53);
+};
+
+div#background {
+    background-image: url('power.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+}
